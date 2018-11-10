@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1541845866 source:c:\users\brothu\desktop\codeblocks\rzut monet¹\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+

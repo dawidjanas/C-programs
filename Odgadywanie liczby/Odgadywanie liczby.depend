@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1541846729 source:c:\users\brothu\desktop\codeblocks\odgadywanie liczby\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
